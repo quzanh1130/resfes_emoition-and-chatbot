@@ -1,0 +1,123 @@
+{
+  "intents": [
+    {
+      "tag": "happiness",
+      "patterns": ["happiness"],
+      "responses": [
+        "I'm glad to see that you're feeling happy! I will play some music for you.",
+        "Happiness is a wonderful emotion. What brings you joy? Let's celebrate with music!",
+        "It's great to see you in a happy mood! Let's keep the positive vibes going with some music.",
+        "That's fantastic! Happiness is contagious. Let's spread the joy with some music!",
+        "Embrace the happiness and let it fill your day. Music is the perfect companion for moments like this!",
+        "Happiness is a beautiful feeling. Enjoy the moment and let the music enhance your experience!",
+        "A smile on your face brightens the day. Let's amplify that happiness with some uplifting music!",
+        "I'm thrilled to see that you're feeling happy! Music has the power to amplify that happiness even more.",
+        "Your happiness is infectious! Let's keep the good vibes flowing with some delightful music.",
+        "May your happiness continue to radiate and inspire. Let's enjoy some soulful music together!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "surprise",
+      "patterns": ["surprise"],
+      "responses": [
+        "Wow, that's surprising! Tell me more about it. I will play some music for you.",
+        "Surprises can be exciting. What happened? Let's amplify the excitement with music!",
+        "I love a good surprise! What made you feel that way? Let's enjoy some music together.",
+        "Unexpected moments bring a sense of wonder. Let's cherish this surprise and add music to the mix!",
+        "Surprises make life interesting and keep us on our toes. Let's celebrate with some lively music!",
+        "Surprises often bring a mix of emotions. Let's process and enjoy this surprise with some soulful music.",
+        "The element of surprise adds spice to life. Let's savor this moment with the perfect soundtrack!",
+        "Surprises can be delightful and leave lasting memories. Let's make this surprise even more memorable with music!",
+        "Embrace the unexpected and let it unfold. The right music can enhance the surprise even further!",
+        "Surprises bring a sense of adventure. Let's embark on this journey together with some captivating music!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "sadness",
+      "patterns": ["sadness"],
+      "responses": [
+        "I'm sorry to see that you're feeling sad. Is there something specific bothering you? Let's listen to some soothing music.",
+        "Sadness can be difficult. Remember, you're not alone. How can I support you? Let's find solace in music.",
+        "Take your time to process your emotions. If you want to talk, I'm here to listen. Let's play some music to uplift your mood.",
+        "I'm here for you during this challenging time. Let's embrace the sadness together and find comfort in music.",
+        "Sadness is a natural part of life. Allow yourself to feel and heal. Let the music accompany you on this journey.",
+        "During moments of sadness, music can be a soothing balm for the soul. Let's immerse ourselves in its healing melodies.",
+        "While sadness may weigh heavy, remember that brighter days will come. Let's navigate through it with the power of music.",
+        "In times of sadness, music becomes a source of solace and strength. Let it embrace and uplift your spirit.",
+        "It's okay to feel sad. Allow yourself to experience and process these emotions. Let music be your companion on this healing path.",
+        "Sadness can be overwhelming, but you're not alone. Let's lean on the healing power of music to find comfort and peace."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "anger",
+      "patterns": ["anger"],
+      "responses": [
+        "I can sense your anger. Take a moment to breathe, and let's work through it together. Music can help calm the mind.",
+        "Anger is a natural emotion. Let's find a constructive way to address the issue. How about some music to channel your emotions?",
+        "Expressing your anger is important, but let's find a solution instead of dwelling on it. Music can be a powerful outlet for your emotions.",
+        "Anger can be intense, but remember to focus on finding resolutions. Let the music be a source of calm and clarity.",
+        "In the face of anger, let's seek understanding and compassion. Music can help create a peaceful atmosphere for reflection.",
+        "Anger can be a sign of unmet needs. Let's explore healthier ways to express and channel your emotions, accompanied by music.",
+        "Take a deep breath and let the music guide you towards a more peaceful state of mind. We'll work through this anger together.",
+        "Anger can cloud our judgment. Let's use music as a tool to regain clarity and find constructive paths forward.",
+        "Anger is a powerful emotion, but it doesn't define you. Let's release its grip by immersing ourselves in the beauty of music.",
+        "Let's transform your anger into positive action. Use the energy to fuel change while music provides a supportive backdrop."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "disgust",
+      "patterns": ["disgust"],
+      "responses": [
+        "I'm sorry if something has disgusted you. Is there anything specific you'd like to discuss or address? Let's listen to some music to shift the focus.",
+        "Disgust can be a strong reaction. Let's explore ways to overcome this feeling. Music can help create a more positive atmosphere.",
+        "If there's something you find disgusting, it's important to communicate your boundaries and concerns. Let's distract ourselves with some enjoyable music.",
+        "Disgust can linger in our minds, but let's redirect our attention to things that bring us joy. Music can provide that uplifting escape.",
+        "Disgust can be a challenging emotion to navigate. Let's use music as a means to find beauty and inspiration amidst it all.",
+        "When faced with disgust, let's seek to understand its roots and work towards positive change. Music can be a catalyst for transformation.",
+        "Disgust can be a signal that something doesn't align with your values. Let's explore ways to address it while enjoying some soulful music.",
+        "Disgust can be an opportunity for growth and reflection. Let's utilize music as a source of inspiration and renewal.",
+        "While disgust can be unsettling, let's focus on cultivating gratitude and joy. Music can be a powerful tool in shifting our perspective.",
+        "Disgust may linger, but it doesn't have to define your experience. Let's embrace the beauty of music as a source of comfort and inspiration."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "fear",
+      "patterns": ["fear"],
+      "responses": [
+        "Fear can be overwhelming, but remember that you're stronger than you think. How can I help you overcome your fears? Let's listen to some uplifting music together.",
+        "It's normal to experience fear, but it shouldn't hold you back. Let's face your fears head-on while music empowers and encourages you.",
+        "Fear can be paralyzing, but remember that you have the strength to overcome it. Let's create a safe space and listen to some inspiring music.",
+        "In the face of fear, remember that you're not alone. Let's confront your fears together while listening to music that instills courage and resilience.",
+        "Fear is a natural response, but it's important not to let it control you. Let's find ways to embrace bravery and conquer your fears with the help of music.",
+        "Fear can limit our potential, but you have the power to transcend it. Let's replace fear with confidence while immersing ourselves in music's transformative melodies.",
+        "Fear can feel overwhelming, but let's shift our focus to possibilities and growth. Music can be a soothing companion on this journey of self-discovery.",
+        "When fear arises, remember that it's an opportunity for personal growth. Let's face your fears head-on and let music guide you towards strength and resilience.",
+        "Fear can be a barrier, but it's not insurmountable. Let's harness the power of music to cultivate courage and embrace the unknown.",
+        "Fear can be a teacher. Let's navigate its lessons together while music serves as a comforting and empowering backdrop."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "contempt",
+      "patterns": ["contempt"],
+      "responses": [
+        "I'm sorry if you're feeling contemptuous. Is there something specific bothering you? Let's find a resolution while enjoying some calming music.",
+        "Contempt can be a strong emotion. Let's try to understand the root cause and find a resolution. Music can create a harmonious environment for discussion.",
+        "If you're feeling contempt, it's important to communicate your concerns and seek common ground. Let's foster a positive atmosphere with some pleasant music.",
+        "Contempt can create distance between individuals. Let's strive for empathy and understanding while music bridges the gap.",
+        "Contempt can hinder meaningful connections. Let's open our hearts and minds, finding commonalities through the power of music.",
+        "Contempt often stems from misunderstandings. Let's create a space for dialogue and resolution, with music as a unifying force.",
+        "Contempt may arise from differing perspectives. Let's embrace diversity and find common ground while music encourages empathy.",
+        "Contempt can cloud our judgment. Let's shift our focus to understanding and empathy, guided by the melodies of music.",
+        "Contempt is a sign of discord. Let's nurture understanding and compassion while music soothes the tension.",
+        "In the face of contempt, let's aim for mutual respect and appreciation. Music can help create an environment of harmony and connection."
+      ],
+      "context_set": ""
+    }
+  ]
+}
